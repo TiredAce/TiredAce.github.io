@@ -20,9 +20,9 @@
       
         <tags>
             
-            <tag> 蓝桥杯 </tag>
-            
             <tag> 贪心 </tag>
+            
+            <tag> 蓝桥杯 </tag>
             
         </tags>
       
@@ -47,13 +47,13 @@
       
         <tags>
             
-            <tag> 蓝桥杯 </tag>
-            
             <tag> 双指针 </tag>
+            
+            <tag> 图论 </tag>
             
             <tag> BFS </tag>
             
-            <tag> 图论 </tag>
+            <tag> 蓝桥杯 </tag>
             
         </tags>
       
@@ -107,13 +107,13 @@
       
         <tags>
             
+            <tag> 排序 </tag>
+            
             <tag> 蓝桥杯 </tag>
             
             <tag> 枚举 </tag>
             
             <tag> 模拟 </tag>
-            
-            <tag> 排序 </tag>
             
         </tags>
       
@@ -138,9 +138,9 @@
       
         <tags>
             
-            <tag> 蓝桥杯 </tag>
-            
             <tag> DP </tag>
+            
+            <tag> 蓝桥杯 </tag>
             
         </tags>
       
@@ -329,9 +329,9 @@
       
         <tags>
             
-            <tag> 贪心 </tag>
-            
             <tag> 区间 </tag>
+            
+            <tag> 贪心 </tag>
             
         </tags>
       
@@ -491,9 +491,9 @@
       
         <tags>
             
-            <tag> DP </tag>
-            
             <tag> 区间DP </tag>
+            
+            <tag> DP </tag>
             
         </tags>
       
@@ -678,11 +678,11 @@
       
         <tags>
             
-            <tag> 图论 </tag>
-            
             <tag> 搜索 </tag>
             
             <tag> 二分图 </tag>
+            
+            <tag> 图论 </tag>
             
             <tag> 染色法 </tag>
             
@@ -711,9 +711,9 @@
       
         <tags>
             
-            <tag> 图论 </tag>
-            
             <tag> 搜索 </tag>
+            
+            <tag> 图论 </tag>
             
             <tag> 生成树 </tag>
             
@@ -740,9 +740,9 @@
       
         <tags>
             
-            <tag> 图论 </tag>
-            
             <tag> 搜索 </tag>
+            
+            <tag> 图论 </tag>
             
             <tag> 最短路 </tag>
             
@@ -769,9 +769,9 @@
       
         <tags>
             
-            <tag> 图论 </tag>
-            
             <tag> 搜索 </tag>
+            
+            <tag> 图论 </tag>
             
             <tag> 拓扑排序 </tag>
             
@@ -798,11 +798,11 @@
       
         <tags>
             
-            <tag> BFS </tag>
+            <tag> 搜索 </tag>
             
             <tag> 图论 </tag>
             
-            <tag> 搜索 </tag>
+            <tag> BFS </tag>
             
             <tag> 树 </tag>
             
@@ -829,11 +829,11 @@
       
         <tags>
             
-            <tag> 图论 </tag>
-            
             <tag> 搜索 </tag>
             
             <tag> DFS </tag>
+            
+            <tag> 图论 </tag>
             
             <tag> 树 </tag>
             
@@ -860,9 +860,9 @@
       
         <tags>
             
-            <tag> BFS </tag>
-            
             <tag> 搜索 </tag>
+            
+            <tag> BFS </tag>
             
         </tags>
       
@@ -993,9 +993,9 @@
       
         <tags>
             
-            <tag> 数据结构 </tag>
-            
             <tag> Trie </tag>
+            
+            <tag> 数据结构 </tag>
             
         </tags>
       
@@ -1020,9 +1020,9 @@
       
         <tags>
             
-            <tag> KMP </tag>
-            
             <tag> 数据结构 </tag>
+            
+            <tag> KMP </tag>
             
         </tags>
       
@@ -1213,9 +1213,9 @@
       
         <tags>
             
-            <tag> 双指针 </tag>
-            
             <tag> 基础算法 </tag>
+            
+            <tag> 双指针 </tag>
             
         </tags>
       
@@ -1240,9 +1240,9 @@
       
         <tags>
             
-            <tag> 前缀和 </tag>
-            
             <tag> 基础算法 </tag>
+            
+            <tag> 前缀和 </tag>
             
             <tag> 差分 </tag>
             
@@ -1323,9 +1323,9 @@
       
         <tags>
             
-            <tag> 排序 </tag>
-            
             <tag> 基础算法 </tag>
+            
+            <tag> 排序 </tag>
             
         </tags>
       
