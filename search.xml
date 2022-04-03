@@ -51,9 +51,9 @@
       
         <tags>
             
-            <tag> 贪心 </tag>
-            
             <tag> 蓝桥杯 </tag>
+            
+            <tag> 贪心 </tag>
             
         </tags>
       
@@ -78,13 +78,13 @@
       
         <tags>
             
+            <tag> 蓝桥杯 </tag>
+            
             <tag> 双指针 </tag>
             
             <tag> BFS </tag>
             
             <tag> 图论 </tag>
-            
-            <tag> 蓝桥杯 </tag>
             
         </tags>
       
@@ -169,9 +169,9 @@
       
         <tags>
             
-            <tag> DP </tag>
-            
             <tag> 蓝桥杯 </tag>
+            
+            <tag> DP </tag>
             
         </tags>
       
@@ -335,9 +335,9 @@
       
         <tags>
             
-            <tag> Huffman树 </tag>
-            
             <tag> 贪心 </tag>
+            
+            <tag> Huffman树 </tag>
             
         </tags>
       
@@ -362,9 +362,9 @@
       
         <tags>
             
-            <tag> 区间 </tag>
-            
             <tag> 贪心 </tag>
+            
+            <tag> 区间 </tag>
             
         </tags>
       
@@ -524,9 +524,9 @@
       
         <tags>
             
-            <tag> 区间DP </tag>
-            
             <tag> DP </tag>
+            
+            <tag> 区间DP </tag>
             
         </tags>
       
@@ -711,11 +711,11 @@
       
         <tags>
             
+            <tag> 图论 </tag>
+            
             <tag> 搜索 </tag>
             
             <tag> 二分图 </tag>
-            
-            <tag> 图论 </tag>
             
             <tag> 染色法 </tag>
             
@@ -744,9 +744,9 @@
       
         <tags>
             
-            <tag> 搜索 </tag>
-            
             <tag> 图论 </tag>
+            
+            <tag> 搜索 </tag>
             
             <tag> 生成树 </tag>
             
@@ -773,9 +773,9 @@
       
         <tags>
             
-            <tag> 搜索 </tag>
-            
             <tag> 图论 </tag>
+            
+            <tag> 搜索 </tag>
             
             <tag> 最短路 </tag>
             
@@ -802,9 +802,9 @@
       
         <tags>
             
-            <tag> 搜索 </tag>
-            
             <tag> 图论 </tag>
+            
+            <tag> 搜索 </tag>
             
             <tag> 拓扑排序 </tag>
             
@@ -831,11 +831,11 @@
       
         <tags>
             
-            <tag> 搜索 </tag>
-            
             <tag> BFS </tag>
             
             <tag> 图论 </tag>
+            
+            <tag> 搜索 </tag>
             
             <tag> 树 </tag>
             
@@ -862,11 +862,11 @@
       
         <tags>
             
+            <tag> 图论 </tag>
+            
             <tag> 搜索 </tag>
             
             <tag> DFS </tag>
-            
-            <tag> 图论 </tag>
             
             <tag> 树 </tag>
             
@@ -924,9 +924,9 @@
       
         <tags>
             
-            <tag> 搜索 </tag>
-            
             <tag> BFS </tag>
+            
+            <tag> 搜索 </tag>
             
         </tags>
       
@@ -1250,9 +1250,9 @@
       
         <tags>
             
-            <tag> 位运算 </tag>
-            
             <tag> 基础算法 </tag>
+            
+            <tag> 位运算 </tag>
             
         </tags>
       
@@ -1277,9 +1277,9 @@
       
         <tags>
             
-            <tag> 基础算法 </tag>
-            
             <tag> 双指针 </tag>
+            
+            <tag> 基础算法 </tag>
             
         </tags>
       
@@ -1360,9 +1360,9 @@
       
         <tags>
             
-            <tag> 基础算法 </tag>
-            
             <tag> 二分 </tag>
+            
+            <tag> 基础算法 </tag>
             
         </tags>
       
