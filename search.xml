@@ -335,9 +335,9 @@
       
         <tags>
             
-            <tag> Huffman树 </tag>
-            
             <tag> 贪心 </tag>
+            
+            <tag> Huffman树 </tag>
             
         </tags>
       
@@ -713,9 +713,9 @@
             
             <tag> 搜索 </tag>
             
-            <tag> 二分图 </tag>
-            
             <tag> 图论 </tag>
+            
+            <tag> 二分图 </tag>
             
             <tag> 染色法 </tag>
             
@@ -804,9 +804,9 @@
             
             <tag> 搜索 </tag>
             
-            <tag> 图论 </tag>
-            
             <tag> 拓扑排序 </tag>
+            
+            <tag> 图论 </tag>
             
         </tags>
       
@@ -893,9 +893,9 @@
       
         <tags>
             
-            <tag> 排序 </tag>
-            
             <tag> 哈希表 </tag>
+            
+            <tag> 排序 </tag>
             
             <tag> 队列 </tag>
             
@@ -1057,9 +1057,9 @@
       
         <tags>
             
-            <tag> Trie </tag>
-            
             <tag> 数据结构 </tag>
+            
+            <tag> Trie </tag>
             
         </tags>
       
@@ -1084,9 +1084,9 @@
       
         <tags>
             
-            <tag> 数据结构 </tag>
-            
             <tag> KMP </tag>
+            
+            <tag> 数据结构 </tag>
             
         </tags>
       
@@ -1113,9 +1113,9 @@
             
             <tag> 滑动窗口 </tag>
             
-            <tag> 数据结构 </tag>
-            
             <tag> 队列 </tag>
+            
+            <tag> 数据结构 </tag>
             
         </tags>
       
@@ -1387,9 +1387,9 @@
       
         <tags>
             
-            <tag> 基础算法 </tag>
-            
             <tag> 排序 </tag>
+            
+            <tag> 基础算法 </tag>
             
         </tags>
       
