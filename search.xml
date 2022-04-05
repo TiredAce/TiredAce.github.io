@@ -85,33 +85,6 @@
     
     
     <entry>
-      <title>洛谷能力提升综合题单Part2.1—模拟</title>
-      <link href="/2022/04/04/%E7%AE%97%E6%B3%95%E8%BF%9B%E9%98%B6%E6%8C%87%E5%8D%97%E5%88%B7%E4%B9%A6%E7%AC%94%E8%AE%B0/Part%202.1%E6%A8%A1%E6%8B%9F/"/>
-      <url>/2022/04/04/%E7%AE%97%E6%B3%95%E8%BF%9B%E9%98%B6%E6%8C%87%E5%8D%97%E5%88%B7%E4%B9%A6%E7%AC%94%E8%AE%B0/Part%202.1%E6%A8%A1%E6%8B%9F/</url>
-      
-        <content type="html"><![CDATA[<h3 id="P1003-NOIP2011-提高组-铺地毯"><a href="#P1003-NOIP2011-提高组-铺地毯" class="headerlink" title="P1003 [NOIP2011 提高组] 铺地毯"></a>P1003 [NOIP2011 提高组] 铺地毯</h3><p><a href="https://www.luogu.com.cn/problem/P1003">洛谷原题链接</a></p><figure class="highlight markdown"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">题目描述</span><br><span class="line">为了准备一个独特的颁奖典礼，组织者在会场的一片矩形区域（可看做是平面直角坐标系的第一象限）铺上一些矩形地毯。</span><br><span class="line">一共有 n 张地毯，编号从 1 到 n。现在将这些地毯按照编号从小到大的顺序平行于坐标轴先后铺设，后铺的地毯覆盖在</span><br><span class="line">前面已经铺好的地毯之上。 地毯铺设完成后，组织者想知道覆盖地面某个点的最上面的那张地毯的编号。注意：在矩形地</span><br><span class="line">毯边界和四个顶点上的点也算被地毯覆盖。</span><br></pre></td></tr></table></figure>]]></content>
-      
-      
-      <categories>
-          
-          <category> 洛谷能力提升综合题单 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> 模拟 </tag>
-            
-            <tag> 洛谷 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>Acwing杯 - 第 45 场周赛</title>
       <link href="/2022/04/02/%E5%91%A8%E8%B5%9B/Acwing%E5%91%A8%E8%B5%9B%E7%AC%AC45%E5%9C%BA/"/>
       <url>/2022/04/02/%E5%91%A8%E8%B5%9B/Acwing%E5%91%A8%E8%B5%9B%E7%AC%AC45%E5%9C%BA/</url>
